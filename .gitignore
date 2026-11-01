@@ -1,0 +1,10 @@
+# Generated voice-overs, timings, and rendered videos
+docs/video-series/**/output/
+
+# Windows thumbnail caches from screen captures
+docs/video-series/**/Thumbs.db
+docs/video-series/**/Thumbs.db:encryptable
+
+__pycache__/
+*.pyc
+.venv/
